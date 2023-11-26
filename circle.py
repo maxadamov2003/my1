@@ -1,9 +1,9 @@
 import math
 
 
-def area(r):
-    return math.pi * r * r
+def area(R):
+    return math.pi * R * R
 
 
 def perimeter(r):
-    return 2 * math.pi * r
+    return 2 * math.pi * R
